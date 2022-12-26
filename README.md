@@ -1,1 +1,1 @@
-# Grip-task
+# Grip-task.
